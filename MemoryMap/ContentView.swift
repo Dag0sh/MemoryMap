@@ -26,6 +26,7 @@ struct ContentView: View {
                         Text(item.timestamp!, formatter: itemFormatter)
                     }
                     Text("hello")
+                    Text("sorry")
 
                 }
                 
