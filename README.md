@@ -63,24 +63,24 @@ MemoryMap — это iOS-приложение на SwiftUI, которое по�
    - Карта отображает текущую локацию (Москва по умолчанию).
    - Кнопка "Где я" центрирует карту на вашей позиции с радиусом 1 км.
 
-   <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-09-22 at 12 25 39" src="https://github.com/user-attachments/assets/fcc5ba57-2c37-4959-9675-602c7be64143" />
+   <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 - 2025-09-22 at 12 25 39" src="https://github.com/user-attachments/assets/fcc5ba57-2c37-4959-9675-602c7be64143" />
 
-   <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-09-22 at 12 26 27" src="https://github.com/user-attachments/assets/3c15a041-a981-4519-a5d1-ef97fe16ee53" />
+   <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 - 2025-09-22 at 12 26 27" src="https://github.com/user-attachments/assets/3c15a041-a981-4519-a5d1-ef97fe16ee53" />
 
 2. **Добавление воспоминания**:
    - Нажмите "Добавить" — откроется форма.
    - Выберите стикер, введите заголовок, добавьте фото.
    - Пин появится на карте с выбранным стикером.
 
-   <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-09-22 at 12 30 33" src="https://github.com/user-attachments/assets/af9540cf-1ce7-4822-bb1c-46033c7d11de" />
+   <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 - 2025-09-22 at 12 30 33" src="https://github.com/user-attachments/assets/af9540cf-1ce7-4822-bb1c-46033c7d11de" />
 
 3. **Просмотр и редактирование**:
    - Тап по пину: Показывает детали (адрес, фото, дата).
    - Долгий тап: Редактирование (изменение стикера, добавление/удаление фото, удаление пина).
 
-   <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-09-22 at 12 31 12" src="https://github.com/user-attachments/assets/0e2b2b83-dec7-4a30-996a-1e471ab1e076" />
+   <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 - 2025-09-22 at 12 31 12" src="https://github.com/user-attachments/assets/0e2b2b83-dec7-4a30-996a-1e471ab1e076" />
 
-   <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-09-22 at 12 32 06" src="https://github.com/user-attachments/assets/46f859fd-6c40-4bfc-9e6c-306cbf052a14" />
+   <img width="230" height="500" alt="Simulator Screenshot - iPhone 16 - 2025-09-22 at 12 32 06" src="https://github.com/user-attachments/assets/46f859fd-6c40-4bfc-9e6c-306cbf052a14" />
 
 4. **Галерея фото**:
    - В деталях пина тап по фото открывает полноэкранный режим с зумом и свайпами.
