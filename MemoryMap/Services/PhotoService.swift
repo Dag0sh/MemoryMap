@@ -4,7 +4,6 @@ import PhotosUI
 import SwiftUI
 
 /// Сервис для работы с фотографиями
-@MainActor
 final class PhotoService {
     
     /// Загружает изображения из PhotosPicker items

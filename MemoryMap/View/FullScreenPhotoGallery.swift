@@ -30,9 +30,7 @@ struct FullScreenPhotoGallery: View {
             VStack {
                 HStack {
                     Spacer()
-                    Button {
-                        dismiss()
-                    } label: {
+                    Button { dismiss() } label: {
                         Image(systemName: "xmark.circle.fill")
                             .font(.title)
                             .foregroundColor(.white)
@@ -96,9 +94,7 @@ struct ZoomableImage: View {
                                 height: lastOffset.height + value.translation.height
                             )
                         }
-                        .onEnded { _ in
-                            lastOffset = offset
-                        }
+                        .onEnded { _ in lastOffset = offset }
                 )
                 .gesture(
                     TapGesture(count: 2)

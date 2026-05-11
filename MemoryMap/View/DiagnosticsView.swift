@@ -89,7 +89,7 @@ struct DiagnosticsView: View {
                         
                         await viewModel.addPin(
                             configuration: config,
-                            location: locationManager.currentLocation
+                            fallbackLocation: locationManager.currentLocation
                         )
                     }
                 }
